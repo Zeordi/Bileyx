@@ -1,0 +1,140 @@
+{
+  "events": [
+    {
+      "title": "Tech Innovators Conference 2024",
+      "type": "Conference",
+      "location": "San Francisco, CA",
+      "description": "A two-day conference bringing together the brightest minds in technology to discuss the future of AI, blockchain, and web development.",
+      "fee": "50",
+      "image": "/techConference.jpg",
+      "date": "sep,12",
+      "time": "2:30",
+      "company": {
+        "name": "Global Tech Events",
+        "description": "Global Tech Events is a premier organizer of technology conferences worldwide, aiming to foster innovation and collaboration.",
+        "contactEmail": "info@globaltechevents.com",
+        "contactPhone": "555-123-4567"
+      },
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Art & Wine Festival 2024",
+      "type": "Festival",
+      "description": "A weekend festival celebrating local artists and wineries. Enjoy fine art exhibits, live music, and wine tasting from the region's top vineyards.",
+      "location": "Napa Valley, CA",
+      "fee": "95.54",
+      "image": "/artAndWine.jpeg",
+      "date": "Aug,21",
+      "time": "15:56",
+      "company": {
+        "name": "Vineyard Events",
+        "description": "Vineyard Events specializes in organizing luxurious festivals and gatherings in the heart of California's wine country.",
+        "contactEmail": "events@vineyard.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Startup Pitch Night",
+      "type": "Networking Event",
+      "description": "An evening event where entrepreneurs pitch their startups to a panel of investors and industry experts.",
+      "location": "New York, NY",
+      "fee": "50.41",
+      "image": "/startupNight.jpeg",
+      "date": "Mar,12 ",
+      "time": "17:43",
+      "company": {
+        "name": "Silicon Alley Ventures",
+        "description": "Silicon Alley Ventures connects investors with innovative startups in the New York tech ecosystem.",
+        "contactEmail": "contact@siliconalley.com",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Corporate Leadership Workshop",
+      "type": "Workshop",
+      "description": "A one-day workshop for executives and managers looking to enhance their leadership skills and team-building strategies.",
+      "location": "Chicago, IL",
+      "fee": "83.96",
+      "image": "/corporateWorkshop.jpeg",
+      "date": "Mar,4",
+      "time": "17:07",
+      "company": {
+        "name": "Leadership Insights",
+        "description": "Leadership Insights is a consultancy focused on delivering workshops that empower corporate leaders to achieve their full potential.",
+        "contactEmail": "info@leadershipinsights.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Sustainability Expo 2024",
+      "type": "Exhibition",
+      "description": "A three-day exhibition showcasing the latest in sustainable technology, eco-friendly products, and green energy solutions.",
+      "location": "Austin, TX",
+      "fee": "10.53",
+      "image": "/Sustainability.jpeg",
+      "date": "Jul,22",
+      "time": "03:56",
+      "company": {
+        "name": "Green Future Events",
+        "description": "Green Future Events curates exhibitions and conferences aimed at promoting sustainability and environmental consciousness.",
+        "contactEmail": "expo@greenfuture.com",
+        "contactPhone": "555-333-4444"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Foodie Fest 2024",
+      "type": "Festival",
+      "description": "A food festival featuring top chefs and food vendors from around the world. Taste culinary masterpieces while enjoying live cooking demonstrations.",
+      "location": "Los Angeles, CA",
+      "fee": "62.69",
+      "image": "/foodie.png",
+      "date": "Mar,25",
+      "time": "05:34",
+      "company": {
+        "name": "Culinary Creations",
+        "description": "Culinary Creations organizes food festivals and competitions, celebrating the art of cooking and bringing food lovers together.",
+        "contactEmail": "foodiefest@culinarycreations.com",
+        "contactPhone": "555-666-7777"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Charity Gala: A Night of Giving",
+      "type": "Gala",
+      "description": "An elegant evening of dining, entertainment, and silent auctions to raise funds for local charities supporting underprivileged communities.",
+      "location": "Miami, FL",
+      "fee": "36.77",
+      "image": "/charity.jpeg",
+      "date": "Nov,25",
+      "time": "09:53",
+      "company": {
+        "name": "Hearts United",
+        "description": "Hearts United is dedicated to organizing charitable events and fundraisers to support those in need.",
+        "contactEmail": "gala@heartsunited.com",
+        "contactPhone": "555-888-9999"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Music in the Park: Summer Concert Series",
+      "type": "Concert",
+      "description": "A summer-long concert series featuring live performances from local and international musicians in an open-air setting.",
+      "location": "Seattle, WA",
+      "fee": "57.71",
+      "image": "/concert.jpeg",
+      "date": "dec, 2",
+      "time": "23:40",
+      "company": {
+        "name": "SoundWave Events",
+        "description": "SoundWave Events brings music lovers together by organizing unforgettable concerts and music festivals around the country.",
+        "contactEmail": "music@soundwaveevents.com",
+        "contactPhone": "555-777-8888"
+      }
+    }
+  ]
+}
